@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61a6d4d9-dbb7-4323-82e1-61318c8ac6de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MANUAL_INSTALLATION.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/licenses.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_app/data/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="61a6d4d9-dbb7-4323-82e1-61318c8ac6de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
