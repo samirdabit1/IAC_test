@@ -4,7 +4,7 @@
              Metadata:
                zpc-skip-policy: "ZS-AWS-00020:new comment;"
              Properties  :
-                 GroupDescription  :  "SG Policy"
+                 GroupDescription  :  "SG Policya"
                  GroupName  :  "SG"
                  SecurityGroupIngress:
                    - CidrIp  :  0.0.0.0/0
